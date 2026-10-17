@@ -133,7 +133,7 @@
   .logo-text span { color: var(--accent); }
   nav { display: flex; align-items: center; gap: 8px; }
   nav a {
-    font-size: 0.9rem; font-weight: 400;
+    font-size: 1rem; font-weight: 700;
     color: rgba(255,255,255,0.7); text-decoration: none;
     padding: 8px 14px; border-radius: var(--radius-sm);
     transition: all 0.2s;
